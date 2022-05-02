@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Shree\Downloads\Web-Technology-main\Web-Technology-main\Task 1\.metadata\.plugins\org.eclipse.jdt.core
+2256069617.index
+4115551006.index
+1865797976.index
+760091825.index
+2656362811.index
+622187199.index
